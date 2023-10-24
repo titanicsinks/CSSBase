@@ -1,7 +1,12 @@
 body{
+    /* The color changes text color */
     color:brown;
+    /* background-color changes the color of the background */
     background-color: tan;
+    /* Text-align changes the alignment of the text */
     text-align: center;
+    /* Text-shadow adds a shadow underneath the text */
     text-shadow:1px 1px black;
+    /* Font-size changes the font */
     font-size: 80px;
 }
